@@ -1,0 +1,17 @@
+body{
+   background-color:darkblue;
+   color:magenta; 
+}
+img{
+    border-width: 5px;
+    border-style: dotted;
+    border-color:gold;
+}
+
+.formaz{
+    font-weight: bold;
+}
+#hatter{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: maroon;
+}
